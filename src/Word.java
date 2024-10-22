@@ -10,6 +10,6 @@ public class Word {
     public  String toString(){
         return String.format("Слово: %s Перевод: %s",value, translation);
     }
-
+//izminenia dlia gita
 }
 
