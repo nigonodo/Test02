@@ -11,5 +11,7 @@ public class Word {
         return String.format("Слово: %s Перевод: %s",value, translation);
     }
 //izminenia dlia gita
+    //ghfhj
+
 }
 
